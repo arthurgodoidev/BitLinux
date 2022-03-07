@@ -1,0 +1,3 @@
+# BitLinux
+Um Programa de Código aberto feito por Arthur Godoi Para ver a cotação das principais moedas do Mundo
+Como Dólar,Libra Esterlina,Dólar Canadense ETC...
